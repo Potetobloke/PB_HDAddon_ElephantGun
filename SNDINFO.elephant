@@ -1,0 +1,4 @@
+weapons/elephantgun/fire		"Sounds/ElephantGun/ElphShot.ogg"
+
+weapons/elephantgun/boltback	"Sounds/ElephantGun/ElphBolt1.ogg"
+weapons/elephantgun/boltfwd		"Sounds/ElephantGun/ElphBolt2.ogg"
